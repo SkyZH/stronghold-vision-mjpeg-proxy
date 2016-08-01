@@ -1,6 +1,6 @@
 # Proxy
 
-This project makes it possible to let multiple clients access to webdashboard
+This project makes it possible for multiple clients to gain access to webdashboard at the same time.
 
 ## Config Example
 
