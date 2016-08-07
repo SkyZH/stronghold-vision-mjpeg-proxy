@@ -13,5 +13,6 @@ Create 'index.js' under 'config' folder.
       },
       mjpeg: {
         proxy: "http://localhost:8080/camera.mjpg"
-      }
+      },
+      dashboardPath: "~/WebDashboard"
     };
