@@ -4,7 +4,7 @@ This project makes it possible for multiple clients to gain access to webdashboa
 
 ## Config Example
 
-Create 'index.js' under 'config' folder.
+Create `index.js` under `config` folder.
 
     module.exports = {
       server: {
