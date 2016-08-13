@@ -1,6 +1,7 @@
 # Proxy
 
-This project makes it possible for multiple clients to gain access to webdashboard at the same time.
+Proxy will set up a web server to serve WebDashboard static files and proxy requests to vision camera server so as to
+make it possible for multiple clients to gain access to vision camera at the same time.
 
 ## Requirements
 
