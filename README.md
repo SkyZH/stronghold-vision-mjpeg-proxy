@@ -7,7 +7,7 @@ make it possible for multiple clients to gain access to vision camera at the sam
 
 Nodejs 4.0 with `node-gyp`.
 
-## Install
+## Installation
 
 ```
 git clone https://github.com/ZodiacEFZ/stronghold-vision-mjpeg-proxy/ && cd stronghold-vision-mjpeg-proxy
@@ -29,3 +29,10 @@ Create `index.js` under `config` folder.
       },
       dashboardPath: "/home/pi/WebDashboard"
     };
+    
+## License
+
+MIT
+
+声明：我们允许组织以及个人将此项目用于商业行为，没有任何限制。
+但**请带上本项目的许可证 `MIT`**，并**附上原作者以及项目的地址**。我们保留对该项目的最终解释权。
